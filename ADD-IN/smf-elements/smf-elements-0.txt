@@ -1,0 +1,27 @@
+15001;Calculated;Piotroski 1 (Positive Net Income);?;;;;;;;;0
+15002;Calculated;Piotroski 2 (Positive Operating Cash Flow);?;;;;;;;;0
+15003;Calculated;Piotroski 3 (Increasing Net Income);?;;;;;;;;0
+15004;Calculated;Piotroski 4 (Operating Cash flow exceeds Net Income);?;;;;;;;;0
+15005;Calculated;Piotroski 5 (Decreasing ratio of long-term debt to assets );?;;;;;;;;0
+15006;Calculated;Piotroski 6 (Increasing Current Ratio);?;;;;;;;;0
+15007;Calculated;Piotroski 7 (No increase in outstanding shares);?;;;;;;;;0
+15008;Calculated;Piotroski 8 (Increasing Gross Margins);?;;;;;;;;0
+15009;Calculated;Piotroski 9 (Increasing Asset Turnover);?;;;;;;;;0
+15010;Calculated;Piotroski F-Score;?;;;;;;;;0
+15011;Calculated;Altman Z-Score;?;;;;;;;;0
+15012;Calculated;Rule #1 MOS Price;?;;;;;;;;0
+15013;Calculated;Magic Formula Investing -- Earnings Yield;?;;;;;;;;0
+15014;Calculated;Magic Formula Investing -- Return on Capital;?;;;;;;;;0
+'------ Test Comment
+16001;Evaluate;Rabbitt Analytics Q-Rank;=RCHGetTableCell("http://www.rabbittanalytics.com/qlook_sb.asp?symbol=~~~~~",1,">Q-Rank");;;;;;;;;0
+        '------ Test Comment 2
+16002;Evaluate;Test2;2;;;;;;;;;0
+16003;Evaluate;test3;RCHGetTableCell("http://finance.yahoo.com/q?s=~~~~~",1,"Last Trade:");;;;;;;;;0
+17001;Forbes;5-Year High P/E Ratio;http://finapps.forbes.com/finapps/jsp/finance/compinfo/Ratios.jsp?tkr=~~~~~;1;5-Year High P/E Ratio; ; ; ;0;</table;0;0
+17002;Morningstar;FY10 total revenue;http://quicktake.morningstar.com/Stock/Income10.asp?Symbol=~~~~~;2;Fiscal Year-End;>Revenue; ; ;0;0;0;0
+
+17003;CEF Connect;Current NAV;http://www.cefconnect.com/Details/Summary.aspx?ticker=~~~~~;2;Current;; ; ;0;0;0;0
+17004;Evaluate;NAV;VALUE(smfStrExtr(RCHGetWebData("http://quote.morningstar.com/cef/f.aspx?t=~~~~~",""""",NAV:",50),"NAV:""",""""));;;;;;;;;0
+17005;Evaluate;TempName;RCHGetTableCell("http://finance.yahoo.com/q/ks?s=~~~~~",1,">Market Cap");;;;;;;;;0
+17006;Yahoo;Market Capitalization;=RCHGetTableCell("http://finance.yahoo.com/q/ks?s=~~~~~",1,">Market Cap")
+

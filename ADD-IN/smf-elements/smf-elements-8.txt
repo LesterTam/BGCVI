@@ -1,0 +1,227 @@
+1286;Earnings;Quarterly Earnings -- Fiscal Quarter -- 1;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;2;SPACER.GIF;0;0
+1287;Earnings;Quarterly Earnings -- EPS Estimate -- 1;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;2;SPACER.GIF;0;0
+1288;Earnings;Quarterly Earnings -- EPS Actual -- 1;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;2;SPACER.GIF;0;0
+1289;Earnings;Quarterly Earnings -- Prev Year Actual -- 1;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;2;SPACER.GIF;0;0
+1290;Earnings;Quarterly Earnings -- Calendar Date -- 1;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;2;SPACER.GIF;0;0
+1291;Earnings;Quarterly Earnings -- Fiscal Quarter -- 2;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;3;SPACER.GIF;0;0
+1292;Earnings;Quarterly Earnings -- EPS Estimate -- 2;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;3;SPACER.GIF;0;0
+1293;Earnings;Quarterly Earnings -- EPS Actual -- 2;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;3;SPACER.GIF;0;0
+1294;Earnings;Quarterly Earnings -- Prev Year Actual -- 2;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;3;SPACER.GIF;0;0
+1295;Earnings;Quarterly Earnings -- Calendar Date -- 2;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;3;SPACER.GIF;0;0
+1296;Earnings;Quarterly Earnings -- Fiscal Quarter -- 3;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;4;SPACER.GIF;0;0
+1297;Earnings;Quarterly Earnings -- EPS Estimate -- 3;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;4;SPACER.GIF;0;0
+1298;Earnings;Quarterly Earnings -- EPS Actual -- 3;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;4;SPACER.GIF;0;0
+1299;Earnings;Quarterly Earnings -- Prev Year Actual -- 3;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;4;SPACER.GIF;0;0
+1300;Earnings;Quarterly Earnings -- Calendar Date -- 3;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;4;SPACER.GIF;0;0
+1301;Earnings;Quarterly Earnings -- Fiscal Quarter -- 4;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;5;SPACER.GIF;0;0
+1302;Earnings;Quarterly Earnings -- EPS Estimate -- 4;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;5;SPACER.GIF;0;0
+1303;Earnings;Quarterly Earnings -- EPS Actual -- 4;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;5;SPACER.GIF;0;0
+1304;Earnings;Quarterly Earnings -- Prev Year Actual -- 4;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;5;SPACER.GIF;0;0
+1305;Earnings;Quarterly Earnings -- Calendar Date -- 4;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;5;SPACER.GIF;0;0
+1306;Earnings;Quarterly Earnings -- Fiscal Quarter -- 5;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;6;SPACER.GIF;0;0
+1307;Earnings;Quarterly Earnings -- EPS Estimate -- 5;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;6;SPACER.GIF;0;0
+1308;Earnings;Quarterly Earnings -- EPS Actual -- 5;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;6;SPACER.GIF;0;0
+1309;Earnings;Quarterly Earnings -- Prev Year Actual -- 5;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;6;SPACER.GIF;0;0
+1310;Earnings;Quarterly Earnings -- Calendar Date -- 5;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;6;SPACER.GIF;0;0
+1311;Earnings;Quarterly Earnings -- Fiscal Quarter -- 6;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;7;SPACER.GIF;0;0
+1312;Earnings;Quarterly Earnings -- EPS Estimate -- 6;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;7;SPACER.GIF;0;0
+1313;Earnings;Quarterly Earnings -- EPS Actual -- 6;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;7;SPACER.GIF;0;0
+1314;Earnings;Quarterly Earnings -- Prev Year Actual -- 6;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;7;SPACER.GIF;0;0
+1315;Earnings;Quarterly Earnings -- Calendar Date -- 6;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;7;SPACER.GIF;0;0
+1316;Earnings;Quarterly Earnings -- Fiscal Quarter -- 7;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;8;SPACER.GIF;0;0
+1317;Earnings;Quarterly Earnings -- EPS Estimate -- 7;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;8;SPACER.GIF;0;0
+1318;Earnings;Quarterly Earnings -- EPS Actual -- 7;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;8;SPACER.GIF;0;0
+1319;Earnings;Quarterly Earnings -- Prev Year Actual -- 7;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;8;SPACER.GIF;0;0
+1320;Earnings;Quarterly Earnings -- Calendar Date -- 7;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;8;SPACER.GIF;0;0
+1321;Earnings;Quarterly Earnings -- Fiscal Quarter -- 8;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;9;SPACER.GIF;0;0
+1322;Earnings;Quarterly Earnings -- EPS Estimate -- 8;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;9;SPACER.GIF;0;0
+1323;Earnings;Quarterly Earnings -- EPS Actual -- 8;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;9;SPACER.GIF;0;0
+1324;Earnings;Quarterly Earnings -- Prev Year Actual -- 8;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;9;SPACER.GIF;0;0
+1325;Earnings;Quarterly Earnings -- Calendar Date -- 8;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;9;SPACER.GIF;0;0
+1326;Earnings;Quarterly Earnings -- Fiscal Quarter -- 9;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;10;SPACER.GIF;0;0
+1327;Earnings;Quarterly Earnings -- EPS Estimate -- 9;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;10;SPACER.GIF;0;0
+1328;Earnings;Quarterly Earnings -- EPS Actual -- 9;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;10;SPACER.GIF;0;0
+1329;Earnings;Quarterly Earnings -- Prev Year Actual -- 9;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;10;SPACER.GIF;0;0
+1330;Earnings;Quarterly Earnings -- Calendar Date -- 9;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;10;SPACER.GIF;0;0
+1331;Earnings;Quarterly Earnings -- Fiscal Quarter -- 10;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;11;SPACER.GIF;0;0
+1332;Earnings;Quarterly Earnings -- EPS Estimate -- 10;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;11;SPACER.GIF;0;0
+1333;Earnings;Quarterly Earnings -- EPS Actual -- 10;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;11;SPACER.GIF;0;0
+1334;Earnings;Quarterly Earnings -- Prev Year Actual -- 10;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;11;SPACER.GIF;0;0
+1335;Earnings;Quarterly Earnings -- Calendar Date -- 10;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;11;SPACER.GIF;0;0
+1336;Earnings;Quarterly Earnings -- Fiscal Quarter -- 11;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;12;SPACER.GIF;0;0
+1337;Earnings;Quarterly Earnings -- EPS Estimate -- 11;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;12;SPACER.GIF;0;0
+1338;Earnings;Quarterly Earnings -- EPS Actual -- 11;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;12;SPACER.GIF;0;0
+1339;Earnings;Quarterly Earnings -- Prev Year Actual -- 11;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;12;SPACER.GIF;0;0
+1340;Earnings;Quarterly Earnings -- Calendar Date -- 11;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;12;SPACER.GIF;0;0
+1341;Earnings;Quarterly Earnings -- Fiscal Quarter -- 12;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;13;SPACER.GIF;0;0
+1342;Earnings;Quarterly Earnings -- EPS Estimate -- 12;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;13;SPACER.GIF;0;0
+1343;Earnings;Quarterly Earnings -- EPS Actual -- 12;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;13;SPACER.GIF;0;0
+1344;Earnings;Quarterly Earnings -- Prev Year Actual -- 12;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;13;SPACER.GIF;0;0
+1345;Earnings;Quarterly Earnings -- Calendar Date -- 12;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;13;SPACER.GIF;0;0
+1346;Earnings;Quarterly Earnings -- Fiscal Quarter -- 13;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;14;SPACER.GIF;0;0
+1347;Earnings;Quarterly Earnings -- EPS Estimate -- 13;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;14;SPACER.GIF;0;0
+1348;Earnings;Quarterly Earnings -- EPS Actual -- 13;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;14;SPACER.GIF;0;0
+1349;Earnings;Quarterly Earnings -- Prev Year Actual -- 13;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;14;SPACER.GIF;0;0
+1350;Earnings;Quarterly Earnings -- Calendar Date -- 13;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;14;SPACER.GIF;0;0
+1351;Earnings;Quarterly Earnings -- Fiscal Quarter -- 14;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;15;SPACER.GIF;0;0
+1352;Earnings;Quarterly Earnings -- EPS Estimate -- 14;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;15;SPACER.GIF;0;0
+1353;Earnings;Quarterly Earnings -- EPS Actual -- 14;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;15;SPACER.GIF;0;0
+1354;Earnings;Quarterly Earnings -- Prev Year Actual -- 14;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;15;SPACER.GIF;0;0
+1355;Earnings;Quarterly Earnings -- Calendar Date -- 14;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;15;SPACER.GIF;0;0
+1356;Earnings;Quarterly Earnings -- Fiscal Quarter -- 15;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;16;SPACER.GIF;0;0
+1357;Earnings;Quarterly Earnings -- EPS Estimate -- 15;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;16;SPACER.GIF;0;0
+1358;Earnings;Quarterly Earnings -- EPS Actual -- 15;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;16;SPACER.GIF;0;0
+1359;Earnings;Quarterly Earnings -- Prev Year Actual -- 15;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;16;SPACER.GIF;0;0
+1360;Earnings;Quarterly Earnings -- Calendar Date -- 15;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;16;SPACER.GIF;0;0
+1361;Earnings;Quarterly Earnings -- Fiscal Quarter -- 16;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;17;SPACER.GIF;0;0
+1362;Earnings;Quarterly Earnings -- EPS Estimate -- 16;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;17;SPACER.GIF;0;0
+1363;Earnings;Quarterly Earnings -- EPS Actual -- 16;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;17;SPACER.GIF;0;0
+1364;Earnings;Quarterly Earnings -- Prev Year Actual -- 16;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;17;SPACER.GIF;0;0
+1365;Earnings;Quarterly Earnings -- Calendar Date -- 16;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;17;SPACER.GIF;0;0
+1366;Earnings;Quarterly Earnings -- Fiscal Quarter -- 17;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;18;SPACER.GIF;0;0
+1367;Earnings;Quarterly Earnings -- EPS Estimate -- 17;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;18;SPACER.GIF;0;0
+1368;Earnings;Quarterly Earnings -- EPS Actual -- 17;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;18;SPACER.GIF;0;0
+1369;Earnings;Quarterly Earnings -- Prev Year Actual -- 17;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;18;SPACER.GIF;0;0
+1370;Earnings;Quarterly Earnings -- Calendar Date -- 17;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;18;SPACER.GIF;0;0
+1371;Earnings;Quarterly Earnings -- Fiscal Quarter -- 18;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;19;SPACER.GIF;0;0
+1372;Earnings;Quarterly Earnings -- EPS Estimate -- 18;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;19;SPACER.GIF;0;0
+1373;Earnings;Quarterly Earnings -- EPS Actual -- 18;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;19;SPACER.GIF;0;0
+1374;Earnings;Quarterly Earnings -- Prev Year Actual -- 18;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;19;SPACER.GIF;0;0
+1375;Earnings;Quarterly Earnings -- Calendar Date -- 18;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;19;SPACER.GIF;0;0
+1376;Earnings;Quarterly Earnings -- Fiscal Quarter -- 19;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;20;SPACER.GIF;0;0
+1377;Earnings;Quarterly Earnings -- EPS Estimate -- 19;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;20;SPACER.GIF;0;0
+1378;Earnings;Quarterly Earnings -- EPS Actual -- 19;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;20;SPACER.GIF;0;0
+1379;Earnings;Quarterly Earnings -- Prev Year Actual -- 19;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;20;SPACER.GIF;0;0
+1380;Earnings;Quarterly Earnings -- Calendar Date -- 19;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;20;SPACER.GIF;0;0
+1381;Earnings;Quarterly Earnings -- Fiscal Quarter -- 20;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;21;SPACER.GIF;0;0
+1382;Earnings;Quarterly Earnings -- EPS Estimate -- 20;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;21;SPACER.GIF;0;0
+1383;Earnings;Quarterly Earnings -- EPS Actual -- 20;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;21;SPACER.GIF;0;0
+1384;Earnings;Quarterly Earnings -- Prev Year Actual -- 20;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;21;SPACER.GIF;0;0
+1385;Earnings;Quarterly Earnings -- Calendar Date -- 20;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;21;SPACER.GIF;0;0
+1386;Earnings;Quarterly Earnings -- Fiscal Quarter -- 21;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;22;SPACER.GIF;0;0
+1387;Earnings;Quarterly Earnings -- EPS Estimate -- 21;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;22;SPACER.GIF;0;0
+1388;Earnings;Quarterly Earnings -- EPS Actual -- 21;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;22;SPACER.GIF;0;0
+1389;Earnings;Quarterly Earnings -- Prev Year Actual -- 21;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;22;SPACER.GIF;0;0
+1390;Earnings;Quarterly Earnings -- Calendar Date -- 21;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;22;SPACER.GIF;0;0
+1391;Earnings;Quarterly Earnings -- Fiscal Quarter -- 22;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;23;SPACER.GIF;0;0
+1392;Earnings;Quarterly Earnings -- EPS Estimate -- 22;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;23;SPACER.GIF;0;0
+1393;Earnings;Quarterly Earnings -- EPS Actual -- 22;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;23;SPACER.GIF;0;0
+1394;Earnings;Quarterly Earnings -- Prev Year Actual -- 22;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;23;SPACER.GIF;0;0
+1395;Earnings;Quarterly Earnings -- Calendar Date -- 22;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;23;SPACER.GIF;0;0
+1396;Earnings;Quarterly Earnings -- Fiscal Quarter -- 23;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>EARNINGS RELEASES;<TABLE;>; ;24;SPACER.GIF;0;0
+1397;Earnings;Quarterly Earnings -- EPS Estimate -- 23;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>EARNINGS RELEASES;<TABLE;>; ;24;SPACER.GIF;0;0
+1398;Earnings;Quarterly Earnings -- EPS Actual -- 23;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>EARNINGS RELEASES;<TABLE;>; ;24;SPACER.GIF;0;0
+1399;Earnings;Quarterly Earnings -- Prev Year Actual -- 23;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;6;>EARNINGS RELEASES;<TABLE;>; ;24;SPACER.GIF;0;0
+1400;Earnings;Quarterly Earnings -- Calendar Date -- 23;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;7;>EARNINGS RELEASES;<TABLE;>; ;24;SPACER.GIF;0;0
+1401;Earnings;Splits -- Ratio -- 1;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Splits<;>Ex-Date; ;1;SPACER.GIF;0;0
+1402;Earnings;Splits -- Ex-Date -- 1;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Splits<;>Ex-Date; ;1;SPACER.GIF;0;0
+1403;Earnings;Splits -- Payable -- 1;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Splits<;>Ex-Date; ;1;SPACER.GIF;0;0
+1404;Earnings;Splits -- Record -- 1;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Splits<;>Ex-Date; ;1;SPACER.GIF;0;0
+1405;Earnings;Splits -- Ratio -- 2;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Splits<;>Ex-Date; ;2;SPACER.GIF;0;0
+1406;Earnings;Splits -- Ex-Date -- 2;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Splits<;>Ex-Date; ;2;SPACER.GIF;0;0
+1407;Earnings;Splits -- Payable -- 2;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Splits<;>Ex-Date; ;2;SPACER.GIF;0;0
+1408;Earnings;Splits -- Record -- 2;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Splits<;>Ex-Date; ;2;SPACER.GIF;0;0
+1409;Earnings;Splits -- Ratio -- 3;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Splits<;>Ex-Date; ;3;SPACER.GIF;0;0
+1410;Earnings;Splits -- Ex-Date -- 3;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Splits<;>Ex-Date; ;3;SPACER.GIF;0;0
+1411;Earnings;Splits -- Payable -- 3;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Splits<;>Ex-Date; ;3;SPACER.GIF;0;0
+1412;Earnings;Splits -- Record -- 3;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Splits<;>Ex-Date; ;3;SPACER.GIF;0;0
+1413;Earnings;Splits -- Ratio -- 4;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Splits<;>Ex-Date; ;4;SPACER.GIF;0;0
+1414;Earnings;Splits -- Ex-Date -- 4;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Splits<;>Ex-Date; ;4;SPACER.GIF;0;0
+1415;Earnings;Splits -- Payable -- 4;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Splits<;>Ex-Date; ;4;SPACER.GIF;0;0
+1416;Earnings;Splits -- Record -- 4;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Splits<;>Ex-Date; ;4;SPACER.GIF;0;0
+1417;Earnings;Splits -- Ratio -- 5;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Splits<;>Ex-Date; ;5;SPACER.GIF;0;0
+1418;Earnings;Splits -- Ex-Date -- 5;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Splits<;>Ex-Date; ;5;SPACER.GIF;0;0
+1419;Earnings;Splits -- Payable -- 5;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Splits<;>Ex-Date; ;5;SPACER.GIF;0;0
+1420;Earnings;Splits -- Record -- 5;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Splits<;>Ex-Date; ;5;SPACER.GIF;0;0
+1421;Earnings;Dividends -- Amount -- 1;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;1;SPACER.GIF;0;0
+1422;Earnings;Dividends -- Ex-Date -- 1;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;1;SPACER.GIF;0;0
+1423;Earnings;Dividends -- Payable -- 1;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;1;SPACER.GIF;0;0
+1424;Earnings;Dividends -- Record -- 1;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;1;SPACER.GIF;0;0
+1425;Earnings;Dividends -- Amount -- 2;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;2;SPACER.GIF;0;0
+1426;Earnings;Dividends -- Ex-Date -- 2;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;2;SPACER.GIF;0;0
+1427;Earnings;Dividends -- Payable -- 2;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;2;SPACER.GIF;0;0
+1428;Earnings;Dividends -- Record -- 2;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;2;SPACER.GIF;0;0
+1429;Earnings;Dividends -- Amount -- 3;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;3;SPACER.GIF;0;0
+1430;Earnings;Dividends -- Ex-Date -- 3;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;3;SPACER.GIF;0;0
+1431;Earnings;Dividends -- Payable -- 3;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;3;SPACER.GIF;0;0
+1432;Earnings;Dividends -- Record -- 3;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;3;SPACER.GIF;0;0
+1433;Earnings;Dividends -- Amount -- 4;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;4;SPACER.GIF;0;0
+1434;Earnings;Dividends -- Ex-Date -- 4;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;4;SPACER.GIF;0;0
+1435;Earnings;Dividends -- Payable -- 4;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;4;SPACER.GIF;0;0
+1436;Earnings;Dividends -- Record -- 4;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;4;SPACER.GIF;0;0
+1437;Earnings;Dividends -- Amount -- 5;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;5;SPACER.GIF;0;0
+1438;Earnings;Dividends -- Ex-Date -- 5;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;5;SPACER.GIF;0;0
+1439;Earnings;Dividends -- Payable -- 5;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;5;SPACER.GIF;0;0
+1440;Earnings;Dividends -- Record -- 5;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;5;SPACER.GIF;0;0
+1441;Earnings;Dividends -- Amount -- 6;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;6;SPACER.GIF;0;0
+1442;Earnings;Dividends -- Ex-Date -- 6;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;6;SPACER.GIF;0;0
+1443;Earnings;Dividends -- Payable -- 6;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;6;SPACER.GIF;0;0
+1444;Earnings;Dividends -- Record -- 6;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;6;SPACER.GIF;0;0
+1445;Earnings;Dividends -- Amount -- 7;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;7;SPACER.GIF;0;0
+1446;Earnings;Dividends -- Ex-Date -- 7;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;7;SPACER.GIF;0;0
+1447;Earnings;Dividends -- Payable -- 7;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;7;SPACER.GIF;0;0
+1448;Earnings;Dividends -- Record -- 7;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;7;SPACER.GIF;0;0
+1449;Earnings;Dividends -- Amount -- 8;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;8;SPACER.GIF;0;0
+1450;Earnings;Dividends -- Ex-Date -- 8;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;8;SPACER.GIF;0;0
+1451;Earnings;Dividends -- Payable -- 8;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;8;SPACER.GIF;0;0
+1452;Earnings;Dividends -- Record -- 8;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;8;SPACER.GIF;0;0
+1453;Earnings;Dividends -- Amount -- 9;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;9;SPACER.GIF;0;0
+1454;Earnings;Dividends -- Ex-Date -- 9;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;9;SPACER.GIF;0;0
+1455;Earnings;Dividends -- Payable -- 9;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;9;SPACER.GIF;0;0
+1456;Earnings;Dividends -- Record -- 9;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;9;SPACER.GIF;0;0
+1457;Earnings;Dividends -- Amount -- 10;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;10;SPACER.GIF;0;0
+1458;Earnings;Dividends -- Ex-Date -- 10;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;10;SPACER.GIF;0;0
+1459;Earnings;Dividends -- Payable -- 10;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;10;SPACER.GIF;0;0
+1460;Earnings;Dividends -- Record -- 10;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;10;SPACER.GIF;0;0
+1461;Earnings;Dividends -- Amount -- 11;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;11;SPACER.GIF;0;0
+1462;Earnings;Dividends -- Ex-Date -- 11;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;11;SPACER.GIF;0;0
+1463;Earnings;Dividends -- Payable -- 11;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;11;SPACER.GIF;0;0
+1464;Earnings;Dividends -- Record -- 11;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;11;SPACER.GIF;0;0
+1465;Earnings;Dividends -- Amount -- 12;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;12;SPACER.GIF;0;0
+1466;Earnings;Dividends -- Ex-Date -- 12;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;12;SPACER.GIF;0;0
+1467;Earnings;Dividends -- Payable -- 12;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;12;SPACER.GIF;0;0
+1468;Earnings;Dividends -- Record -- 12;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;12;SPACER.GIF;0;0
+1469;Earnings;Dividends -- Amount -- 13;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;13;SPACER.GIF;0;0
+1470;Earnings;Dividends -- Ex-Date -- 13;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;13;SPACER.GIF;0;0
+1471;Earnings;Dividends -- Payable -- 13;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;13;SPACER.GIF;0;0
+1472;Earnings;Dividends -- Record -- 13;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;13;SPACER.GIF;0;0
+1473;Earnings;Dividends -- Amount -- 14;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;14;SPACER.GIF;0;0
+1474;Earnings;Dividends -- Ex-Date -- 14;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;14;SPACER.GIF;0;0
+1475;Earnings;Dividends -- Payable -- 14;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;14;SPACER.GIF;0;0
+1476;Earnings;Dividends -- Record -- 14;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;14;SPACER.GIF;0;0
+1477;Earnings;Dividends -- Amount -- 15;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;15;SPACER.GIF;0;0
+1478;Earnings;Dividends -- Ex-Date -- 15;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;15;SPACER.GIF;0;0
+1479;Earnings;Dividends -- Payable -- 15;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;15;SPACER.GIF;0;0
+1480;Earnings;Dividends -- Record -- 15;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;15;SPACER.GIF;0;0
+1481;Earnings;Dividends -- Amount -- 16;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;16;SPACER.GIF;0;0
+1482;Earnings;Dividends -- Ex-Date -- 16;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;16;SPACER.GIF;0;0
+1483;Earnings;Dividends -- Payable -- 16;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;16;SPACER.GIF;0;0
+1484;Earnings;Dividends -- Record -- 16;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;16;SPACER.GIF;0;0
+1485;Earnings;Dividends -- Amount -- 17;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;17;SPACER.GIF;0;0
+1486;Earnings;Dividends -- Ex-Date -- 17;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;17;SPACER.GIF;0;0
+1487;Earnings;Dividends -- Payable -- 17;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;17;SPACER.GIF;0;0
+1488;Earnings;Dividends -- Record -- 17;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;17;SPACER.GIF;0;0
+1489;Earnings;Dividends -- Amount -- 18;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;18;SPACER.GIF;0;0
+1490;Earnings;Dividends -- Ex-Date -- 18;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;18;SPACER.GIF;0;0
+1491;Earnings;Dividends -- Payable -- 18;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;18;SPACER.GIF;0;0
+1492;Earnings;Dividends -- Record -- 18;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;18;SPACER.GIF;0;0
+1493;Earnings;Dividends -- Amount -- 19;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;19;SPACER.GIF;0;0
+1494;Earnings;Dividends -- Ex-Date -- 19;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;19;SPACER.GIF;0;0
+1495;Earnings;Dividends -- Payable -- 19;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;19;SPACER.GIF;0;0
+1496;Earnings;Dividends -- Record -- 19;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;19;SPACER.GIF;0;0
+1497;Earnings;Dividends -- Amount -- 20;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;20;SPACER.GIF;0;0
+1498;Earnings;Dividends -- Ex-Date -- 20;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;20;SPACER.GIF;0;0
+1499;Earnings;Dividends -- Payable -- 20;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;20;SPACER.GIF;0;0
+1500;Earnings;Dividends -- Record -- 20;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;20;SPACER.GIF;0;0
+1501;Earnings;Dividends -- Amount -- 21;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;21;SPACER.GIF;0;0
+1502;Earnings;Dividends -- Ex-Date -- 21;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;21;SPACER.GIF;0;0
+1503;Earnings;Dividends -- Payable -- 21;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;21;SPACER.GIF;0;0
+1504;Earnings;Dividends -- Record -- 21;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;21;SPACER.GIF;0;0
+1505;Earnings;Dividends -- Amount -- 22;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;22;SPACER.GIF;0;0
+1506;Earnings;Dividends -- Ex-Date -- 22;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;22;SPACER.GIF;0;0
+1507;Earnings;Dividends -- Payable -- 22;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;22;SPACER.GIF;0;0
+1508;Earnings;Dividends -- Record -- 22;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;22;SPACER.GIF;0;0
+1509;Earnings;Dividends -- Amount -- 23;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;2;>Upcoming;>Dividends<;>Ex-Date; ;23;SPACER.GIF;0;0
+1510;Earnings;Dividends -- Ex-Date -- 23;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;3;>Upcoming;>Dividends<;>Ex-Date; ;23;SPACER.GIF;0;0
+1511;Earnings;Dividends -- Payable -- 23;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;4;>Upcoming;>Dividends<;>Ex-Date; ;23;SPACER.GIF;0;0
+1512;Earnings;Dividends -- Record -- 23;http://www.earnings.com/company.asp?client=cb&ticker=~~~~~;5;>Upcoming;>Dividends<;>Ex-Date; ;23;SPACER.GIF;0;0

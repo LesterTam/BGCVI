@@ -1,0 +1,21 @@
+Files:
+
+   smf-elements-0.txt = Calculated data elements
+   smf-elements-1.txt = MSN data elements
+   smf-elements-2.txt = Yahoo data elements
+   smf-elements-3.txt = Google data elements
+   smf-elements-4.txt = Morningstar data elements
+   smf-elements-5.txt = Reuters data elements
+   smf-elements-6.txt = Zacks data elements
+   smf-elements-7.txt = AdvFN data elements
+   smf-elements-8.txt = Earnings.com data elements
+   smf-elements-9.txt = Other misc data elements
+
+Fields:
+
+   #;source;element;url;cells;find1;find2;find3;find4;rows;end;look;type
+
+New?
+
+   #;source;name;formula;;;;;;;;;0
+
