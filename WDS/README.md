@@ -1,4 +1,3 @@
-
 First and foremost I would like to thank Marissa MacLellan, Mateusz Hojdysz, Steven Walt, Yi Kang, Aliaksandr Lebedzeu,  Ching Yi Sun, Fedor Baydakov, Yang Yang, Adam Jacobson, Boaz Wu, Lester Tam, and Mitchell Kideckel for their excellent contribution to this project. This project was supported by the Ben Graham Centre for Value Investing and Firenze Holdings.
 
 The hash module in this repository is useful to aggregate accounting data and perform data sanitization to generate historical financial statements in Microsoft Excel. Given this fact, it is viable to build a program that automates pro-forma budgeting. While most calculations in pro-forma models are simple arithmetic, there are several key circular references that require identification of the difference equation in order to find the equilibrium solution. Normally, the Excel built-in iteration system is used to solve for circular reference. It cannot be used once the calculations are conducted off worksheet. Therefore, user-defined functions for solving circular references.
@@ -55,6 +54,8 @@ In practice, Muller’s method is always preferred if it can produce viable resu
 
 Examples:
 
+
+
 A. Function for solving Implied Share Price (Executive Compensation and Stock Option)
 
 Data Required
@@ -73,6 +74,8 @@ securities.
 Choice of Optimization Method
 
 Upon testing, Muller’s method is viable with an error term of 10^-3, which is sufficient when calculating share price as the result is accurate at the cent level.
+
+
 
 
 B. Function for solving cost of debt
@@ -103,6 +106,8 @@ Choice of Optimization Method
 Upon testing, Mullers method can produce an equilibrium solution with an error term of 10^-5, which is sufficient.
 ￼
 
+
+
 C. Function for solving Cash Balance
 
 Data Required
@@ -121,6 +126,8 @@ Description of a Single Calculation Process
 Choice of Optimization Methods.
 
 Upon testing, Muller’s method can produce an equilibrium solution with an error term of 10^-5, which is sufficient.
+
+
 
 
 D. Function for solving Net Income
