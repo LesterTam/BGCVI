@@ -1,4 +1,4 @@
-First and foremost I would like to thank Marissa MacLellan, Mateusz Hojdysz, Steven Walt, Yi Kang, Aliaksandr Lebedzeu,  Ching Yi Sun, Fedor Baydakov, Yang Yang, Adam Jacobson, Boaz Wu, Lester Tam, and Mitchell Kideckel for their excellent contribution to this project. This project was supported by the Ben Graham Centre for Value Investing and Firenze Holdings.
+First and foremost I would like to thank Marissa MacLellan, Mateusz Hojdysz, Steven Walt, Yi Kang, Aliaksandr Lebedzeu,  Ching Yi Sun, Fedor Baydakov, Yang Yang, Adam Jacobson, Boaz Wu, Lester Tam, and Mitchell Kideckel for their excellent contribution to this project.
 
 The hash module in this repository is useful to aggregate accounting data and perform data sanitization to generate 
 historical financial statements in Microsoft Excel. Given this fact, it is viable to build a program that automates 
